@@ -1,5 +1,13 @@
 # Changelog
 
+## [1.4.1](https://github.com/aeternity/aepp-hyperchains-initiator/compare/v1.4.0...v1.4.1) (2025-05-09)
+
+
+### Bug Fixes
+
+* update deploy-gitops action version in all pipelines ([#20](https://github.com/aeternity/aepp-hyperchains-initiator/issues/20)) ([da7dadf](https://github.com/aeternity/aepp-hyperchains-initiator/commit/da7dadf044a172c3c9d9deda43cde748c77b4f34))
+* update publish-ecr action version ([#18](https://github.com/aeternity/aepp-hyperchains-initiator/issues/18)) ([8ddfab3](https://github.com/aeternity/aepp-hyperchains-initiator/commit/8ddfab31921c2f7cfbe5ccb05b598c3915c81572))
+
 ## [1.4.0](https://github.com/aeternity/aepp-hyperchains-initiator/compare/v1.3.0...v1.4.0) (2025-05-09)
 
 
