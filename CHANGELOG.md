@@ -1,5 +1,19 @@
 # Changelog
 
+## [1.4.0](https://github.com/aeternity/aepp-hyperchains-initiator/compare/v1.3.0...v1.4.0) (2025-05-09)
+
+
+### Features
+
+* adds child_block_production_time ([172c3cc](https://github.com/aeternity/aepp-hyperchains-initiator/commit/172c3ccf45411c877077e3da56d62fef3c32ea73))
+* **delegate:** first version of the delegate view ([d026da5](https://github.com/aeternity/aepp-hyperchains-initiator/commit/d026da55bc7bcd287e290a267778b380dc9d7126))
+
+
+### Bug Fixes
+
+* adjusted step 2 and 4 ([046500a](https://github.com/aeternity/aepp-hyperchains-initiator/commit/046500a9ceb9bc04cafc6e71c4ee776e9d8051d1))
+* tests now have the correct fixture ([6337e91](https://github.com/aeternity/aepp-hyperchains-initiator/commit/6337e914733c8a377d82889b25bcd14792b837dc))
+
 ## [1.3.0](https://github.com/aeternity/aepp-hyperchains-initiator/compare/v1.2.0...v1.3.0) (2025-03-26)
 
 
